@@ -3,7 +3,7 @@
 <title>Hola Mundo Contenedor!</title>
 </head>
 <body>
-	<h1>Hola Mundo Contenedor!</h1>
+	<h1>Hola Mundo Contenedor Test!</h1>
 	<p>
 		Tiempo actual
 		<%= new java.util.Date() %></p>
